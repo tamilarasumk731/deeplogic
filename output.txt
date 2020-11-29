@@ -1,22 +1,22 @@
 [
-  {
-    "title": "Dems Cite Monty Python in Legal Filing to Mock Trump Challenge",
-    "link": "https://time.com/5915467/trump-election-lawsuit-monty-python"
-  },
-  {
-    "title": "Fox News Ratings Plummet After Election",
-    "link": "https://time.com/5915461/fox-news-ratings-plummet"
-  },
-  {
-    "title": "Will the World Trust Joe Biden on Climate?",
-    "link": "https://time.com/5915120/biden-climate-change-world"
-  },
-  {
-    "title": "Metal Monolith Discovered in Utah Wilderness",
-    "link": "https://time.com/5915344/utah-metal-monolith-desert"
-  },
-  {
-    "title": "The First U.S. Shipments of COVID-19 Vaccines Will Include 6.4 Million Doses",
-    "link": "https://time.com/5915362/covid-19-vaccine-rollout-plans"
-  }
+   {
+      "title":"It's Not Just...The Maddening Psychology of Holiday Zooms",
+      "link":"https://time.com/5916160/its-not-just-the-strange-psychology-of-zoom-holidays"
+   },
+   {
+      "title":"Ethiopia Military Now Controls Tigray Capital",
+      "link":"https://time.com/5916025/ethiopia-says-its-military-now-controls-the-tigray-capital"
+   },
+   {
+      "title":"Tony Hsieh, Retired Zappos CEO, Dies at 46",
+      "link":"https://time.com/5916021/tony-hsieh-retired-zappos-ceo-dies"
+   },
+   {
+      "title":"Iran Leader Vows Revenge Over Slain Scientist",
+      "link":"https://time.com/5916014/irans-supreme-leader-vows-revenge-over-slain-scientist"
+   },
+   {
+      "title":"U.K. Appoints Minister for COVID-19 Vaccinations",
+      "link":"https://time.com/5916007/uk-appoints-vaccines-minister"
+   }
 ]
